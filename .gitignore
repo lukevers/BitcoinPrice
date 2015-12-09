@@ -1,0 +1,6 @@
+# Folders
+/build
+
+# Files
+.lock-waf*
+.DS_Store

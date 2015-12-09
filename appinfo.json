@@ -1,0 +1,18 @@
+{
+  "uuid": "f5e19ac1-685c-4496-9f13-8848df710fd1",
+  "shortName": "BtcPrice",
+  "longName": "Bitcoin Price",
+  "companyName": "Luke Evers",
+  "versionLabel": "1.0",
+  "sdkVersion": "3",
+  "targetPlatforms": ["basalt", "chalk"],
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "BtcPrice": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
