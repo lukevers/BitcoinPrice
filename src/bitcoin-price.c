@@ -82,7 +82,7 @@ static void window_unload(Window *window) {
 
 static void init() {
     s_main_window = window_create();
-    background_color = GColorYellow;
+    background_color = GColorChromeYellow;
     foreground_color = GColorBlack;
 
     window_set_background_color(s_main_window, background_color);
