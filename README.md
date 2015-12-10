@@ -1,3 +1,5 @@
+![Screenshot](resources/screenshots/example_round.png)
+
 # BitcoinPrice
 
 This is an app for [Pebble](https://www.pebble.com/) watches running on the basalt (Pebble Time) and chalk (Pebble Time Round) platforms. This app uses the [BitcoinAverage Price Index](https://bitcoinaverage.com/) API to receive data.
